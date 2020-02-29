@@ -1,0 +1,13 @@
+#maindiv{
+    background-color: red;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    font-size: 25px;
+}
+#maindiv:hover{
+    background-color: grey;
+    color:black;
+}

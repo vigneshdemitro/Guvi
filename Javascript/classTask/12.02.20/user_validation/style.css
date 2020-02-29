@@ -1,0 +1,20 @@
+#container{
+    display: flex;
+    flex-direction: column;
+}
+#formdiv{
+    width: 50%;
+    background-color: rgb(90, 158, 155);
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+}
+input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 10px;
+}

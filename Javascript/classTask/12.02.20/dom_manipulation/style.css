@@ -1,0 +1,23 @@
+#container{
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+}
+#left{
+    width: 50%;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+#right{
+    width: 50%;
+    background-color: blue;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+#btndiv{
+    display: flex;
+    justify-content: center;
+}
